@@ -154,7 +154,7 @@ const LandingPage = () => {
                         <div className="absolute -inset-1 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-[3rem] blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
                         <div className="relative rounded-[3rem] overflow-hidden border border-white/10 aspect-[4/5] shadow-2xl shadow-yellow-400/5 bg-slate-800">
                             <img
-                                src="https://images.unsplash.com/photo-1566576721346-d4a3b4eaad21?q=80&w=2030&auto=format&fit=crop"
+                                src="https://images.unsplash.com/photo-1570126618953-d437176e8c79?q=80&w=1000&auto=format&fit=crop"
                                 alt="Logística UrabáGo"
                                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"
                             />
@@ -297,14 +297,14 @@ const LandingPage = () => {
                             name="Carlos Mendoza"
                             role="Dueño de 'El Sazón Costeño'"
                             text="UrabáGo nos permitió llegar a clientes que antes no podíamos atender por falta de transporte propio."
-                            img="https://i.pravatar.cc/150?img=11"
+                            img="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop"
                         />
                         <div className="md:mt-12">
                             <TestimonialCard
                                 name="Elena Ruiz"
                                 role="Gerente de 'Moda Urabá'"
                                 text="La rapidez en las entregas de ropa y accesorios ha sido la clave para fidelizar a nuestros compradores online."
-                                img="https://i.pravatar.cc/150?img=32"
+                                img="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop"
                             />
                         </div>
                     </div>
